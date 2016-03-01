@@ -23,6 +23,9 @@
   color: white;
 }
 
+.body-background {
+ background-color: #18bc9c;
+}
 .social {
   padding-right: 15px;
 }
