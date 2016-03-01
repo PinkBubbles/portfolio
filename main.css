@@ -1,0 +1,61 @@
+.thin-gray-border{
+  border-color: gray;
+  border-style: solid;
+  border-radius: 50%;
+  border-width: 2px;
+}
+
+.thin-red-border {
+  border-color: red;
+  border-style: solid;
+  border-radius: 50%;
+  border-width: 2px;
+}
+
+.pink-text {
+  color: #ff0080;
+}
+
+.black-text {
+  color: black;
+}
+.white-text {
+  color: white;
+}
+
+.social {
+  padding-right: 15px;
+}
+
+.btn-background {
+  background-color: pink;
+}
+
+.thumbs {
+  padding-right: 10px;
+}
+
+li {
+ display: inline;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+#header {
+  background-color: black;
+}
+#footer {
+  background-color: black;
+}
+
+.fixed-nav-bar {
+  position: fixed;
+  top: 9px;
+  left:-18px;
+  z-index: 9999;
+  width: 100%;
+  height: 50px;
+}
+
